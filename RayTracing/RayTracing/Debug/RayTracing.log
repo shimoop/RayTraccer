@@ -1,2 +1,6 @@
-﻿  RayTracing.cpp
+﻿  stdafx.cpp
+  RayTracing.cpp
+e:\vs_project\raytraccer\raytracing\raytracing\hitable_list.h(22): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\vs_project\raytraccer\raytracing\raytracing\raytracing.cpp(18): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
   RayTracing.vcxproj -> E:\VS_PROJECT\RayTraccer\RayTracing\Debug\RayTracing.exe
